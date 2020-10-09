@@ -17,3 +17,4 @@ var_dump(array_pop($courses));// Devuelve el ultimo elemento y lo elimina
 var_dump(array_unshift());// Devuelve y agrega en la primera posicion
 var_dump(array_push());// Devuelve el ultimo elemento y lo agrega al final
 var_dump(array_flip($courses));// Cambia las keys por values
+var_dump(array_diff());// obtiene los valores distintos entre los 2 arrays
